@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Algoritme\Algoritme\bin\Debug\netcoreapp3.1\TreeHeight.exe
+C:\Users\Dell\source\repos\Algoritme\Algoritme\bin\Debug\netcoreapp3.1\TreeHeight.deps.json
+C:\Users\Dell\source\repos\Algoritme\Algoritme\bin\Debug\netcoreapp3.1\TreeHeight.runtimeconfig.json
+C:\Users\Dell\source\repos\Algoritme\Algoritme\bin\Debug\netcoreapp3.1\TreeHeight.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Algoritme\Algoritme\bin\Debug\netcoreapp3.1\TreeHeight.dll
+C:\Users\Dell\source\repos\Algoritme\Algoritme\bin\Debug\netcoreapp3.1\TreeHeight.pdb
+C:\Users\Dell\source\repos\Algoritme\Algoritme\obj\Debug\netcoreapp3.1\TreeHeight.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Algoritme\Algoritme\obj\Debug\netcoreapp3.1\TreeHeight.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Algoritme\Algoritme\obj\Debug\netcoreapp3.1\TreeHeight.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Algoritme\Algoritme\obj\Debug\netcoreapp3.1\TreeHeight.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Algoritme\Algoritme\obj\Debug\netcoreapp3.1\TreeHeight.dll
+C:\Users\Dell\source\repos\Algoritme\Algoritme\obj\Debug\netcoreapp3.1\TreeHeight.pdb
+C:\Users\Dell\source\repos\Algoritme\Algoritme\obj\Debug\netcoreapp3.1\TreeHeight.genruntimeconfig.cache
