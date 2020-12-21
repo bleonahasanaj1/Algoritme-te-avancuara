@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Algoritme\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Algoritme\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Algoritme\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Algoritme\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Algoritme\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.exe
+C:\Users\Dell\source\repos\Algoritme\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.deps.json
+C:\Users\Dell\source\repos\Algoritme\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.json
+C:\Users\Dell\source\repos\Algoritme\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Algoritme\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\Dell\source\repos\Algoritme\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\Dell\source\repos\Algoritme\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\Dell\source\repos\Algoritme\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\Dell\source\repos\Algoritme\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.genruntimeconfig.cache
