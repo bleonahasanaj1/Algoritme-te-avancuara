@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Algoritme\Horspool\bin\Debug\netcoreapp3.1\Horspool.exe
+C:\Users\Dell\source\repos\Algoritme\Horspool\bin\Debug\netcoreapp3.1\Horspool.deps.json
+C:\Users\Dell\source\repos\Algoritme\Horspool\bin\Debug\netcoreapp3.1\Horspool.runtimeconfig.json
+C:\Users\Dell\source\repos\Algoritme\Horspool\bin\Debug\netcoreapp3.1\Horspool.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Algoritme\Horspool\bin\Debug\netcoreapp3.1\Horspool.dll
+C:\Users\Dell\source\repos\Algoritme\Horspool\bin\Debug\netcoreapp3.1\Horspool.pdb
+C:\Users\Dell\source\repos\Algoritme\Horspool\obj\Debug\netcoreapp3.1\Horspool.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Algoritme\Horspool\obj\Debug\netcoreapp3.1\Horspool.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Algoritme\Horspool\obj\Debug\netcoreapp3.1\Horspool.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Algoritme\Horspool\obj\Debug\netcoreapp3.1\Horspool.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Algoritme\Horspool\obj\Debug\netcoreapp3.1\Horspool.dll
+C:\Users\Dell\source\repos\Algoritme\Horspool\obj\Debug\netcoreapp3.1\Horspool.pdb
+C:\Users\Dell\source\repos\Algoritme\Horspool\obj\Debug\netcoreapp3.1\Horspool.genruntimeconfig.cache
